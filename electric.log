@@ -1,0 +1,25 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Tue Feb 05 13:48:05 EST 2019
+ProcessKeyBinding 401 when=1549392484996 modifiers=80 code=11 char=ffff false false
+--------------- 1 --------------
+  Tue Feb 05 13:48:05 EST 2019
+ProcessKeyBinding 401 when=1549392485156 modifiers=80 code=4f char=f false false
+--------------- 2 --------------
+  Tue Feb 05 13:48:05 EST 2019
+Menu Activated: File | Open Library...
+--------------- 3 --------------
+  Tue Feb 05 13:48:05 EST 2019
+ProcessKeyBinding 400 when=1549392485156 modifiers=80 code=0 char=f false false
+--------------- 4 --------------
+  Tue Feb 05 13:48:15 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 5 --------------
+  Tue Feb 05 13:48:22 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 6 --------------
+  Tue Feb 05 13:48:39 EST 2019
+ProcessKeyBinding 401 when=1549392519635 modifiers=200 code=12 char=ffff false false
+--------------- 7 --------------
+  Tue Feb 05 13:49:00 EST 2019
+ProcessKeyBinding 401 when=1549392540319 modifiers=200 code=12 char=ffff false false
