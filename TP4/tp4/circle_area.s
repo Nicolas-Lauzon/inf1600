@@ -1,7 +1,7 @@
 .globl _ZNK7CCircle7AreaAsmEv
 
 _ZNK7CCircle7AreaAsmEv:
-        push %ebp      /* save old base pointer */
+        push %ebp      /* save old base pointer*/
         mov %esp, %ebp /* set ebp to current esp */
         
         movl 8(%ebp), %eax
